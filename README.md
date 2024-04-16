@@ -1,5 +1,8 @@
 # MVC java
 
+<img width="860" alt="Screenshot 2024-04-15 at 11 37 45 PM" src="https://github.com/contracamilo/mvc-activity-repo/assets/27745159/24538171-73d5-46e4-9bc7-dae24c5ce69e">
+
+
 Este proyecto es una aplicación de consola simple que permite a los usuarios gestionar tareas. Los usuarios pueden crear, editar, listar, eliminar y marcar tareas como completadas.
 
 ## Características
